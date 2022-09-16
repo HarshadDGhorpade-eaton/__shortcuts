@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL=https://jira-prod.tcc.etn.com/browse/EDGEDO-426?filter=-1&jql=resolution%20%3D%20Unresolved%20AND%20Sprint%20%3D%2012259%20AND%20assignee%20in%20(currentUser())%20order%20by%20updated%20DESC
